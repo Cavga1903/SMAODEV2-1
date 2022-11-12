@@ -8,69 +8,69 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Odev2
 build_property.RootNamespace = Odev2
-build_property.ProjectDir = /Users/tolgacavga/Desktop/P010SMA/SMAODEV2/Odev2/
+build_property.ProjectDir = /Users/tolgacavga/Desktop/P010SMA/SMAODEV2tolga/Odev2/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/tolgacavga/Desktop/P010SMA/SMAODEV2/Odev2
+build_property.MSBuildProjectDirectory = /Users/tolgacavga/Desktop/P010SMA/SMAODEV2tolga/Odev2
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2/Odev2/Views/Home/Index.cshtml]
+[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2tolga/Odev2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2/Odev2/Views/Home/Privacy.cshtml]
+[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2tolga/Odev2/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2/Odev2/Views/Iletisim/Index.cshtml]
+[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2tolga/Odev2/Views/Iletisim/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSWxldGlzaW0vSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2/Odev2/Views/Ogrendiklerimiz/Asama2View.cshtml]
+[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2tolga/Odev2/Views/Ogrendiklerimiz/Asama2View.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT2dyZW5kaWtsZXJpbWl6L0FzYW1hMlZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2/Odev2/Views/Ogrendiklerimiz/Hakkimda.cshtml]
+[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2tolga/Odev2/Views/Ogrendiklerimiz/Hakkimda.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT2dyZW5kaWtsZXJpbWl6L0hha2tpbWRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2/Odev2/Views/Ogrendiklerimiz/Index.cshtml]
+[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2tolga/Odev2/Views/Ogrendiklerimiz/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT2dyZW5kaWtsZXJpbWl6L0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2/Odev2/Views/Shared/ContactUs.cshtml]
+[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2tolga/Odev2/Views/Shared/ContactUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbnRhY3RVcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2/Odev2/Views/Shared/Error.cshtml]
+[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2tolga/Odev2/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2/Odev2/Views/Shared/NavBarPartial.cshtml]
+[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2tolga/Odev2/Views/Shared/NavBarPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL05hdkJhclBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2/Odev2/Views/Shared/Viewdeneme.cshtml]
+[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2tolga/Odev2/Views/Shared/Viewdeneme.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1ZpZXdkZW5lbWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2/Odev2/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2tolga/Odev2/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2/Odev2/Views/_ViewImports.cshtml]
+[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2tolga/Odev2/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2/Odev2/Views/_ViewStart.cshtml]
+[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2tolga/Odev2/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2/Odev2/Views/Shared/_Layout.cshtml]
+[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2tolga/Odev2/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-fvggf40tap
 
-[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2/Odev2/Views/Shared/_PartialHeader.cshtml]
+[/Users/tolgacavga/Desktop/P010SMA/SMAODEV2tolga/Odev2/Views/Shared/_PartialHeader.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19QYXJ0aWFsSGVhZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-dd6almavfl
