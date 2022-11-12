@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{F92ECFF9-F10E-4011-AEDC-39AD9D23A8F7}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Odev2 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Odev2/Views/Shared/NavBarPartial.cshtml">
+    <Files>
+      <File FileName="Odev2/Views/Shared/_Layout.cshtml" Line="25" Column="11" />
+      <File FileName="Odev2/Views/Iletisim/Index.cshtml" Line="35" Column="33" />
+      <File FileName="Odev2/Views/Shared/NavBarPartial.cshtml" Line="13" Column="61" />
+      <File FileName="Odev2/Views/Ogrendiklerimiz/Hakkimda.cshtml~" Line="1" Column="1" />
+      <File FileName="Odev2/Controllers/HomeController.cs" Line="24" Column="10" />
+      <File FileName="Odev2/Controllers/OgrendiklerimizController.cs~~" Line="1" Column="1" />
+      <File FileName="Odev2/Controllers/IletisimController.cs" Line="1" Column="1" />
+      <File FileName="Odev2/Controllers/HomeController.cs~" Line="1" Column="1" />
+      <File FileName="Odev2/Views/Ogrendiklerimiz/Asama2View.cshtml" Line="1" Column="1" />
+      <File FileName="Odev2/Controllers/HakkimdaController.cs" Line="11" Column="6" />
+      <File FileName="Odev2/Controllers/HakkimdaController.cs~" Line="1" Column="1" />
+      <File FileName="Odev2/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Odev2/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Odev2/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="Odev2/Views/Ogrendiklerimiz/Hakkimda.cshtml" Line="1" Column="1" />
+      <File FileName="Odev2/Views/Ogrendiklerimiz/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Odev2/Views/Shared/ContactUs.cshtml" Line="1" Column="1" />
+      <File FileName="Odev2/Views/Shared/_PartialHeader.cshtml" Line="1" Column="1" />
+      <File FileName="Odev2/Views/Shared/Error.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Odev2" expanded="True">
+            <Node name="Odev2" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Iletisim" expanded="True" />
+                <Node name="Ogrendiklerimiz" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
